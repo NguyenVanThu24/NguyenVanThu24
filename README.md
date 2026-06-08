@@ -45,7 +45,7 @@ Open to E-Commerce development, technical collaborations, and knowledge sharing.
 
 <div align="center">
   
-"Automating today, scaling tomorrow"
+*"Automating today, scaling tomorrow"*
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=danieldev23&style=flat-square&color=58a6ff)
 
