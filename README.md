@@ -1,6 +1,6 @@
 # <p align="center">👋 NGUYỄN VĂN THỨ</p>
 
-## <p align="center">Tech Student & Digital Builder</p>
+## <p align="center">Tech Student & Digital Marketing & Ads</p>
 
 <p align="center">
   🚀 Building e-commerce solutions with modern technology
