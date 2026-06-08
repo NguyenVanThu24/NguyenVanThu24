@@ -30,19 +30,21 @@ const developer = {
   
   languages: ["Vietnamese", "English", "Chinese (HSK4)"]
 };
+```
+
+---
 
 ## 🤝 Let's Connect
+Open to E-Commerce development, technical collaborations, and knowledge sharing.
 
-Open to **DevOps/Fullstack opportunities**, **technical collaborations**, and **knowledge sharing**.
-
-📫 **dangquochuy.connect@gmail.com**  
-🌐 **[dangquochuy.xyz](https://www.dangquochuy.xyz/)**
+📫 contact@nguyenthu.id.vn    
+🌐 nguyenthu.id.vn
 
 ---
 
 <div align="center">
   
-*"Automating today, scaling tomorrow"*
+"Automating today, scaling tomorrow"
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=danieldev23&style=flat-square&color=58a6ff)
 
