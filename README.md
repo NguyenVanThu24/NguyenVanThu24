@@ -14,7 +14,7 @@
 
 ---
 
-### 🎯 About Me
+## 🎯 About Me
 
 ```javascript
 const developer = {
@@ -30,3 +30,20 @@ const developer = {
   
   languages: ["Vietnamese", "English", "Chinese (HSK4)"]
 };
+
+## 🤝 Let's Connect
+
+Open to **DevOps/Fullstack opportunities**, **technical collaborations**, and **knowledge sharing**.
+
+📫 **dangquochuy.connect@gmail.com**  
+🌐 **[dangquochuy.xyz](https://www.dangquochuy.xyz/)**
+
+---
+
+<div align="center">
+  
+*"Automating today, scaling tomorrow"*
+
+![Visitor Count](https://komarev.com/ghpvc/?username=danieldev23&style=flat-square&color=58a6ff)
+
+</div>
