@@ -38,8 +38,8 @@ const developer = {
 ## 🤝 Let's Connect
 Open to E-Commerce development, technical collaborations, and knowledge sharing.
 
-📫 contact@nguyenthu.id.vn    
-🌐 nguyenthu.id.vn
+📫 **nguyenvanthu0016064@gmail.com**   
+🌐 **[dangquochuy.xyz](https://www.nguyenthu.id.vn/)**
 
 ---
 
