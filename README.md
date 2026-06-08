@@ -39,7 +39,7 @@ const developer = {
 Open to E-Commerce development, technical collaborations, and knowledge sharing.
 
 📫 **nguyenvanthu0016064@gmail.com**   
-🌐 **[dangquochuy.xyz](https://www.nguyenthu.id.vn/)**
+🌐 **[nguyenthu.id.vn](https://www.nguyenthu.id.vn/)**
 
 ---
 
