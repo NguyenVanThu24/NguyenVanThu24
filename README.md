@@ -3,7 +3,7 @@
 ## <p align="center">Tech Student & Digital Marketing & Ads</p>
 
 <p align="center">
-  🚀 Building e-commerce solutions with modern technology
+  🚀 Building Digital Marketing & Ads with modern technology
 </p>
 
 <p align="center">
@@ -21,7 +21,7 @@
 const developer = {
   name: "Nguyen Van Thu",
   location: "Viet Nam",
-  role: "Tech Student | E-Commerce Developer",
+  role: "Tech Student | Digital Marketing & Ads technology",
   
   currentFocus: [
     "Odoo & Docker containerization",
